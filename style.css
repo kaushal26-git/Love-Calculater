@@ -48,3 +48,18 @@ gap: 20px;
     cursor: pointer;
     background-color: red;
 }
+
+/* mobile responsive */
+@media(max-width:768px){
+
+.container{
+    /* border: none;
+    background-color: black; */
+    width: 300px;
+}
+.calculater-form input{
+    width: 80%;
+   
+}
+
+}
